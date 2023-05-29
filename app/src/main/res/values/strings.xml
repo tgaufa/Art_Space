@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="title_1">The Echoes of Forgotten Memories</string>
+    <string name="title_2">Dance in the Silent Twilight"</string>
+    <string name="title_3">Harmony in a World Untouched</string>
+    <string name="title_4">Tales from the Shattered Horizon</string>
+    <string name="title_5">Beyond the Veil of Time</string>
+    <string name="title_6">Whispers of the Autumn Winds"</string>
+    <string name="title_7">Journey Through the Celestial Seas</string>
+
+
+    <string name="artist_1">Amelia Rosenberg</string>
+    <string name="artist_2">Francis McAllister</string>
+    <string name="artist_3">Lorenzo di Silva</string>
+    <string name="artist_4">Samantha Yee</string>
+    <string name="artist_5">Erik Gustafson</string>
+    <string name="artist_6">Isabella Delaney</string>
+    <string name="artist_7">Alexander Chekhov</string>
+
+    <string name="year_1">1687</string>
+    <string name="year_2">1411</string>
+    <string name="year_3">1993</string>
+    <string name="year_4">2021</string>
+    <string name="year_5">1844</string>
+    <string name="year_6">1590</string>
+    <string name="year_7">1732</string>
+
+</resources>
